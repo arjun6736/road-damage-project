@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822866756698",
+    "project_id": "routefixer",
+    "storage_bucket": "routefixer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822866756698:android:7c403e58924db69e734463",
+        "android_client_info": {
+          "package_name": "com.example.routefixer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VT64EdpiwwOV75nqrYF85_qk1ZC61LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
