@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+
+# Migrations (optional)
+# */migrations/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Firebase & Google Services
+google-services.json
+GoogleService-Info.plist
+firebase_service_account.json
+*.jks
+key.properties
+service-account.json
+**/android/app/google-services.json
+**/ios/Runner/GoogleService-Info.plist
